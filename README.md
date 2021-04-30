@@ -1,2 +1,2 @@
-# calss-17-trex
+# class-17-trex
 it is a game
